@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Russo One", sans-serif;
+}
+
+td {
+  vertical-align: middle;
+}
+
+.textColor {
+  color: rgb(50, 55, 105);
+}
